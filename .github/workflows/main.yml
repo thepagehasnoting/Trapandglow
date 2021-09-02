@@ -1,4 +1,4 @@
-name: Trackquery1
+name: Trackquery
 
 on: workflow_dispatch
 
